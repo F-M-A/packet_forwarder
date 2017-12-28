@@ -24,8 +24,8 @@ Maintainer: Michael Coracin
 #include <assert.h>
 #include <math.h>
 
-#include "trace.h"
-#include "jitqueue.h"
+#include "../inc/trace.h"
+#include "../inc/jitqueue.h"
 
 /* -------------------------------------------------------------------------- */
 /* --- PRIVATE MACROS ------------------------------------------------------- */

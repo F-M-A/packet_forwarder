@@ -24,7 +24,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #endif
 
-#include "parson.h"
+#include "../inc/parson.h"
 
 #include <stdio.h>
 #include <stdlib.h>

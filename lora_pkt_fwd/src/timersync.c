@@ -21,8 +21,8 @@ Maintainer: Michael Coracin
 #include <stdint.h>        /* C99 types */
 #include <pthread.h>
 
-#include "trace.h"
-#include "timersync.h"
+#include "../inc/trace.h"
+#include "../inc/timersync.h"
 #include "loragw_hal.h"
 #include "loragw_reg.h"
 #include "loragw_aux.h"

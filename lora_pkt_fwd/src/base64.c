@@ -21,7 +21,7 @@ Maintainer: Sylvain Miermont
 #include <stdlib.h>
 #include <stdint.h>
 
-#include "base64.h"
+#include "../inc/base64.h"
 
 /* -------------------------------------------------------------------------- */
 /* --- PRIVATE MACROS ------------------------------------------------------- */

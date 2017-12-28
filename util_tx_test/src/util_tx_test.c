@@ -39,7 +39,7 @@ Maintainer: Sylvain Miermont
 #include <arpa/inet.h>  /* IP address conversion stuff */
 #include <netdb.h>      /* gai_strerror */
 
-#include "base64.h"
+#include "../inc/base64.h"
 
 /* -------------------------------------------------------------------------- */
 /* --- PRIVATE MACROS ------------------------------------------------------- */

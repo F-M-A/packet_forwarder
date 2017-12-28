@@ -47,11 +47,11 @@ Maintainer: Michael Coracin
 
 #include <pthread.h>
 
-#include "trace.h"
-#include "jitqueue.h"
-#include "timersync.h"
-#include "parson.h"
-#include "base64.h"
+#include "../inc/trace.h"
+#include "../inc/jitqueue.h"
+#include "../inc/timersync.h"
+#include "../inc/parson.h"
+#include "../inc/base64.h"
 #include "loragw_hal.h"
 #include "loragw_gps.h"
 #include "loragw_aux.h"
